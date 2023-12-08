@@ -1,8 +1,6 @@
-import streamlit as st
-import streamlit as st
-import pandas as pd
 
 import streamlit as st
+import pandas as pd
 from io import BytesIO
 
 def main():
